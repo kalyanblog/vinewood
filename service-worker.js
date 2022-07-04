@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vinewood/precache-manifest.1b37bd68d047de486b82664ef5fcf543.js"
+  "/vinewood/precache-manifest.7de16aed646ab3541834f863fc484667.js"
 );
 
 workbox.clientsClaim();
