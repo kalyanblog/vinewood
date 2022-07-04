@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "15d594368b56adc14aa8",
+    "revision": "4ec343567cbb7174bbae",
     "url": "/vinewood/static/css/main.3a7b46f3.chunk.css"
   },
   {
-    "revision": "15d594368b56adc14aa8",
-    "url": "/vinewood/static/js/main.15d59436.chunk.js"
+    "revision": "4ec343567cbb7174bbae",
+    "url": "/vinewood/static/js/main.4ec34356.chunk.js"
   },
   {
     "revision": "8f0854ff6fd9d65f2f81",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/vinewood/static/js/runtime~main.231c1deb.js"
   },
   {
-    "revision": "14eb14f786418c33c758b194ba482e4d",
+    "revision": "ffae30b689421198af7aa6d9cb9abed1",
     "url": "/vinewood/index.html"
   }
 ];

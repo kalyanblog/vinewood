@@ -1,13 +1,13 @@
 {
   "main.css": "/vinewood/static/css/main.3a7b46f3.chunk.css",
-  "main.js": "/vinewood/static/js/main.15d59436.chunk.js",
-  "main.js.map": "/vinewood/static/js/main.15d59436.chunk.js.map",
+  "main.js": "/vinewood/static/js/main.4ec34356.chunk.js",
+  "main.js.map": "/vinewood/static/js/main.4ec34356.chunk.js.map",
   "static/js/1.8f0854ff.chunk.js": "/vinewood/static/js/1.8f0854ff.chunk.js",
   "static/js/1.8f0854ff.chunk.js.map": "/vinewood/static/js/1.8f0854ff.chunk.js.map",
   "runtime~main.js": "/vinewood/static/js/runtime~main.231c1deb.js",
   "runtime~main.js.map": "/vinewood/static/js/runtime~main.231c1deb.js.map",
   "static/css/main.3a7b46f3.chunk.css.map": "/vinewood/static/css/main.3a7b46f3.chunk.css.map",
   "index.html": "/vinewood/index.html",
-  "precache-manifest.076b8349d307697baec0e91c141fa6e6.js": "/vinewood/precache-manifest.076b8349d307697baec0e91c141fa6e6.js",
+  "precache-manifest.1b37bd68d047de486b82664ef5fcf543.js": "/vinewood/precache-manifest.1b37bd68d047de486b82664ef5fcf543.js",
   "service-worker.js": "/vinewood/service-worker.js"
 }
